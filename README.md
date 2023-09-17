@@ -7,3 +7,5 @@ Relating the measure to improve observability introduced in this article with th
 
 ## Comments from other students
 Feel free to add your comments here!
+
+Observability acts like a "black box" that pilots use, giving developers the data they need to understand their system's internal state at any point in time. Without observability, developers are essentially "flying blind," making it difficult to diagnose problems and affecting the reliability of applications. Therefore, investing in good observability practices and tools is essential for maintaining high-quality, reliable software.--Chang Liu
